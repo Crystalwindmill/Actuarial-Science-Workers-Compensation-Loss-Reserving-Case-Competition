@@ -1,20 +1,19 @@
 # Workers' Compensation Loss Reserving Analysis
 
-## Project Overview
+## 📋 Project Overview
 Predictive modeling project for **TOU Insurance Company** to assess unpaid claim reserves for Workers' Compensation. Developed two independent actuarial models to estimate **$2.1M ultimate losses** with **less than 2% variance** between methods.
 
 *Completed for UT Dallas Actuarial Case Competition (Oct–Nov 2025)*
 
 ---
 
-## Objective
+## 🎯 Objective
 Estimate unpaid claim liabilities using industry-standard actuarial techniques, providing reliable reserve estimates for financial planning and regulatory compliance.
 
 ---
 
 
-
-## Methods
+## 📊 Methods
 
 ### Method 1: Chain-Ladder Loss Development
 - Constructed **paid** and **reported** loss triangles from 10+ years of claims data
@@ -31,7 +30,7 @@ Estimate unpaid claim liabilities using industry-standard actuarial techniques, 
 
 ---
 
-## Key Findings
+## 🔍 Key Findings
 
 | Metric | Result |
 |--------|--------|
@@ -48,14 +47,14 @@ Estimate unpaid claim liabilities using industry-standard actuarial techniques, 
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 - **Python**: Pandas, NumPy, Matplotlib
 - **Excel**: Data processing, triangle construction
 - **Statistical Methods**: Curve fitting, weighted averages, trend analysis
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 ```
 ├── README.md
 ├── ACT_competition.ipynb    # Main analysis code
@@ -64,7 +63,7 @@ Estimate unpaid claim liabilities using industry-standard actuarial techniques, 
 
 ---
 
-## Business Impact
+## 📈 Business Impact
 - Provides actuarially sound reserve estimates for financial reporting
 - Supports regulatory compliance (NAIC requirements)
 - Identifies medical cost trends for strategic planning
@@ -73,6 +72,6 @@ Estimate unpaid claim liabilities using industry-standard actuarial techniques, 
 ---
 
 ## 👤 Author
-**Crystal W Li, Melody Tsai, Howard Zhang, Yaohan**  
+**Crystal W Li**  
 B.Sc. Statistics & Actuarial Science, University of Toronto  
 [LinkedIn](http://linkedin.com/in/crystal-li-baa648351) | [Email](mailto:crystalw.li@mail.utoronto.ca)
