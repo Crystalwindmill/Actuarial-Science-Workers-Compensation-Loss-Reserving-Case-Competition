@@ -1,18 +1,19 @@
 # Workers' Compensation Loss Reserving Analysis
 
-## 📋 Project Overview
+## Project Overview
 Predictive modeling project for **TOU Insurance Company** to assess unpaid claim reserves for Workers' Compensation. Developed two independent actuarial models to estimate **$2.1M ultimate losses** with **less than 2% variance** between methods.
 
 *Completed for UT Dallas Actuarial Case Competition (Oct–Nov 2025)*
 
 ---
 
-## 🎯 Objective
+## Objective
 Estimate unpaid claim liabilities using industry-standard actuarial techniques, providing reliable reserve estimates for financial planning and regulatory compliance.
 
 ---
+<img width="1244" height="452" alt="image" src="https://github.com/user-attachments/assets/a12bb8ca-64bb-4aea-a7bb-0dc61462253e" />
 
-## 📊 Methods
+## Methods
 
 ### Method 1: Chain-Ladder Loss Development
 - Constructed **paid** and **reported** loss triangles from 10+ years of claims data
@@ -53,16 +54,18 @@ Estimate unpaid claim liabilities using industry-standard actuarial techniques, 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 ├── README.md
 ├── ACT_competition.ipynb    # Main analysis code
 └── data/                    # Loss triangles (if applicable)
 ```
+<img width="1618" height="618" alt="image" src="https://github.com/user-attachments/assets/ad18d929-a8fa-4aff-93ae-7e200650bf05" />
+<img width="2398" height="440" alt="image" src="https://github.com/user-attachments/assets/abee5c21-3e65-4668-b1f6-f2ae5c651189" />
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 - Provides actuarially sound reserve estimates for financial reporting
 - Supports regulatory compliance (NAIC requirements)
 - Identifies medical cost trends for strategic planning
@@ -71,6 +74,6 @@ Estimate unpaid claim liabilities using industry-standard actuarial techniques, 
 ---
 
 ## 👤 Author
-**Crystal W Li**  
+**Crystal W Li, Melody Tsai, Howard Zhang, Yaohan**  
 B.Sc. Statistics & Actuarial Science, University of Toronto  
 [LinkedIn](http://linkedin.com/in/crystal-li-baa648351) | [Email](mailto:crystalw.li@mail.utoronto.ca)
