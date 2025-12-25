@@ -60,8 +60,8 @@ Estimate unpaid claim liabilities using industry-standard actuarial techniques, 
 ├── ACT_competition.ipynb    # Main analysis code
 └── data/                    # Loss triangles (if applicable)
 ```
-<img width="1618" height="618" alt="image" src="https://github.com/user-attachments/assets/ad18d929-a8fa-4aff-93ae-7e200650bf05" />
-<img width="2398" height="440" alt="image" src="https://github.com/user-attachments/assets/abee5c21-3e65-4668-b1f6-f2ae5c651189" />
+<img width="2274" height="810" alt="image" src="https://github.com/user-attachments/assets/90c16f43-95ee-4f4c-9557-8595cef0227d" />
+
 
 ---
 
