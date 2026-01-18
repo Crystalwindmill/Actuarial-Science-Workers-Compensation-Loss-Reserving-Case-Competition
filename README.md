@@ -5,6 +5,8 @@ Predictive modeling project for **TOU Insurance Company** to assess unpaid claim
 
 *Completed for UT Dallas Actuarial Case Competition (Oct–Nov 2025)*
 
+final presentation PowerPoint link: https://docs.google.com/presentation/d/1SpjNT_uyu19dPgi4Jdo_-LIVEtk49PEUJKBL6rZpIPk/edit?usp=sharing
+
 ---
 
 ## Objective
